@@ -1,15 +1,13 @@
 import argparse
 from crawler.crawler import Crawler
 
-
 def cli():
-    parser = argparse.ArgumentParser(description="Simple multi-threaded crawler")
-    parser.add_argument("seeds", nargs="+", help="Seed URLs to start from")
-    parser.add_argument("--workers", type=int, default=5)
-    parser.add_argument("--max-pages", type=int, default=50)
-    parser.add_argument("--depth", type=int, default=2)
-    return parser.parse_args()
-
+    p = argparse.ArgumentParser(description="Multi-threaded crawler")
+    p.add_argument("seeds", nargs="+")
+    p.add_argument("--workers", type=int, default=8)
+    p.add_argument("--max-pages", type=int, default=200)
+    p.add_argument("--depth", type=int, default=2)
+    return p.parse_args()
 
 if __name__ == "__main__":
     args = cli()
@@ -20,4 +18,3 @@ if __name__ == "__main__":
         max_depth=args.depth,
     )
     crawler.start()
-

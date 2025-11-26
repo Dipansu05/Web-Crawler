@@ -1,66 +1,87 @@
-import requests
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+# crawler/crawler.py
 from concurrent.futures import ThreadPoolExecutor
+from queue import Queue, Empty
+from urllib.parse import urlparse
+
+from crawler.worker import fetch, parse_html
+from crawler.robots import RobotsChecker
+from utils.db import CrawlerDB
 
 
 class Crawler:
-    def __init__(self, seeds, max_workers=5, max_pages=50, max_depth=2):
+    def __init__(self, seeds, max_workers=8, max_pages=200, max_depth=2):
         self.seeds = seeds
         self.max_workers = max_workers
         self.max_pages = max_pages
         self.max_depth = max_depth
+
         self.visited = set()
-        self.results = []
+        self.queue = Queue()
 
-    def fetch(self, url):
-        try:
-            r = requests.get(url, timeout=5)
-            r.raise_for_status()
-            return r.text
-        except Exception:
-            return None
+        self.db = CrawlerDB("crawler.db")
+        self.robots = RobotsChecker()
 
-    def parse(self, html, base_url):
-        soup = BeautifulSoup(html, "html.parser")
-        title = soup.title.string.strip() if soup.title and soup.title.string else ""
+        # Allowed domains
+        self.allowed_domains = {self.get_domain(url) for url in seeds}
 
+    def get_domain(self, url):
+        return urlparse(url).netloc
 
-        links = []
-        for a in soup.find_all("a", href=True):
-            link = urljoin(base_url, a['href'])
-            links.append(link)
+    def domain_allowed(self, url):
+        domain = self.get_domain(url)
+        for allowed in self.allowed_domains:
+            if domain == allowed or domain.endswith("." + allowed):
+                return True
+        return False
 
-        return title, links
+    def worker(self):
+        """Worker thread that continuously processes URLs."""
+        while True:
+            try:
+                url, depth = self.queue.get(timeout=1)
+            except Empty:
+                return
 
-    def crawl_page(self, url, depth):
-        if len(self.visited) >= self.max_pages:
-            return
+            if len(self.visited) >= self.max_pages:
+                return
 
-        if url in self.visited or depth > self.max_depth:
-            return
+            if url in self.visited:
+                continue
+            if depth > self.max_depth:
+                continue
+            if not self.domain_allowed(url):
+                continue
+            if not self.robots.allowed(url):
+                continue
 
-        self.visited.add(url)
+            self.visited.add(url)
 
-        html = self.fetch(url)
-        if not html:
-            return
+            # Fetch page
+            try:
+                html = fetch(url)
+            except Exception:
+                continue
 
-        title, links = self.parse(html, url)
-        print(f"[Crawled] {url} -> {title}")
+            title, meta, links = parse_html(html, url)
+            print(f"[Crawled] {url} -> {title}")
 
-        self.results.append({"url": url, "title": title})
+            # Save page
+            self.db.save(url, title, meta)
 
-        return [(link, depth + 1) for link in links]
+            # Enqueue next links
+            if depth < self.max_depth:
+                for link in links:
+                    if link not in self.visited and self.domain_allowed(link):
+                        self.queue.put((link, depth + 1))
 
     def start(self):
-        queue = [(url, 0) for url in self.seeds]
+        # Seed the queue
+        for s in self.seeds:
+            self.queue.put((s, 0))
 
+        # Spin up workers
         with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
-            while queue and len(self.visited) < self.max_pages:
-                url, depth = queue.pop(0)
-                future = executor.submit(self.crawl_page, url, depth)
-                next_links = future.result()
-                if next_links:
-                    queue.extend(next_links)
+            futures = [executor.submit(self.worker) for _ in range(self.max_workers)]
+            for f in futures:
+                f.result()  # wait for all workers
 
