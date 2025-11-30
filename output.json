@@ -1,0 +1,745 @@
+[
+  {
+    "url": "https://example.com",
+    "title": "Example Domain",
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1"
+    },
+    "crawled_at": "2025-11-26T09:56:16.526280"
+  },
+  {
+    "url": "https://httpbin.org",
+    "title": "httpbin.org",
+    "meta": {},
+    "crawled_at": "2025-11-26T09:57:46.817298"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/business_35/index.html",
+    "title": "Business | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-26T10:04:50.581682"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
+    "title": "Starving Hearts (Triangular Trade Trilogy, #1) | Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    Since her assault, Miss Annette Chetwynd has been plagued by nightmares and worries about an arranged marriage. But she yearns to find her anonymous rescuer. Unfortunately, her health and intellect prevent it. Both repel suitors and cause Annette to doubt God's existence, at least until He answers her prayers in an unusual way ... Mr. Peter Adsley is joining the clergy, an Since her assault, Miss Annette Chetwynd has been plagued by nightmares and worries about an arranged marriage. But she yearns to find her anonymous rescuer. Unfortunately, her health and intellect prevent it. Both repel suitors and cause Annette to doubt God's existence, at least until He answers her prayers in an unusual way ... Mr. Peter Adsley is joining the clergy, and he desires a godly wife by his side. After his failed attempt to obtain one, he engages in a clandestine meeting with the bewitching young woman who keeps crossing his path. But she is so unsettling. Destined for disappointments, Peter and Annette endure disgraceful situations. Will Peter's faith sustain him through overwhelming setbacks? Can Annette overcome her doubts? Or will their starving hearts yield to the machinations of a mad man? ...more\n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-26T10:04:54.794551"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html",
+    "title": "Young Adult | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-26T10:05:01.370691"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/classics_6/index.html",
+    "title": "Classics | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-26T10:05:02.718927"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
+    "title": "Mesaerion: The Best Science Fiction Stories 1800-1849 | Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    Andrew Barger, award-winning author and engineer, has extensively researched forgotten journals and magazines of the early 19th century to locate groundbreaking science fiction short stories in the English language. In doing so, he found what is possibly the first science fiction story by a female (and it is not from Mary Shelley). Andrew located the first steampunk short Andrew Barger, award-winning author and engineer, has extensively researched forgotten journals and magazines of the early 19th century to locate groundbreaking science fiction short stories in the English language. In doing so, he found what is possibly the first science fiction story by a female (and it is not from Mary Shelley). Andrew located the first steampunk short story, which has not been republished since 1844. There is the first voyage to the moon in a balloon, republished for the first time since 1820 that further tells of a darkness machine and a lunarian named Zuloc. Other sci-stories include the first robotic insect and an electricity gun. Once again, Andrew has searched old texts to find the very best science fiction stories from the period when the genre automated to life, some of the stories are published for the first time in nearly 200 years. Read these fantastic stories today!OUR OWN COUNTRY So mechanical has the age become, that men seriously talk of flying machines, to go by steam, --not your air-balloons, but real Daedalian wings, made of wood and joints, nailed to your shoulder, --not wings of feathers and wax like the wings of Icarus, who fell into the Cretan sea, but real, solid, substantial, rock-maple wings with wrought-iron hinges, and huge concavities, to propel us through the air. Knickerbocker Magazine, May 18 ...more\n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-26T10:05:03.763167"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html",
+    "title": "Sports and Games | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-26T10:05:04.803781"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
+    "title": "It's Only the Himalayas | Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \u00e2\u0080\u009cWherever you go, whatever you do, just . . . don\u00e2\u0080\u0099t do anything stupid.\u00e2\u0080\u009d \u00e2\u0080\u0094My MotherDuring her yearlong adventure backpacking from South Africa to Singapore, S. Bedford definitely did a few things her mother might classify as \"stupid.\" She swam with great white sharks in South Africa, ran from lions in Zimbabwe, climbed a Himalayan mountain without training in Nepal, and wa \u00e2\u0080\u009cWherever you go, whatever you do, just . . . don\u00e2\u0080\u0099t do anything stupid.\u00e2\u0080\u009d \u00e2\u0080\u0094My MotherDuring her yearlong adventure backpacking from South Africa to Singapore, S. Bedford definitely did a few things her mother might classify as \"stupid.\" She swam with great white sharks in South Africa, ran from lions in Zimbabwe, climbed a Himalayan mountain without training in Nepal, and watched as her friend was attacked by a monkey in Indonesia.But interspersed in those slightly more crazy moments, Sue Bedfored and her friend \"Sara the Stoic\" experienced the sights, sounds, life, and culture of fifteen countries. Joined along the way by a few friends and their aging fathers here and there, Sue and Sara experience the trip of a lifetime. They fall in love with the world, cultivate an appreciation for home, and discover who, or what, they want to become.It's Only the Himalayas is the incredibly funny, sometimes outlandish, always entertaining confession of a young backpacker that will inspire you to take your own adventure. ...more\n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-26T10:05:05.835804"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
+    "title": "The Black Maria | Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    Praise for Aracelis Girmay:\"[Girmay's] every loss\u00e2\u0080\u0094she calls them estrangements\u00e2\u0080\u0094is a yearning for connection across time and place; her every fragment is a bulwark against ruin.\" \u00e2\u0080\u0094 O, The Oprah Magazine \"In Aracelis Girmay we have a poet who collects, polishes, and shares stories with such brilliant invention, tenderness, and intellectual liveliness that it is understandabl Praise for Aracelis Girmay:\"[Girmay's] every loss\u00e2\u0080\u0094she calls them estrangements\u00e2\u0080\u0094is a yearning for connection across time and place; her every fragment is a bulwark against ruin.\" \u00e2\u0080\u0094 O, The Oprah Magazine \"In Aracelis Girmay we have a poet who collects, polishes, and shares stories with such brilliant invention, tenderness, and intellectual liveliness that it is understandable that we think of her as the blessed curator of our collective histories. There is in her art the vulnerability of one who lives inside of the stories that she gathers in this remarkable collection. Her poems set off alarms even as they transform the world she inhabits, showing us, in the process, exactly what she asks of Romare Bearden\u00e2\u0080\u0099s art: \u00e2\u0080\u0098\u00e2\u0080\u00a6how not to // assign all blackness near the sea / a captivity.\u00e2\u0080\u0099 This is one of the many sweet contradictions in the black maria, which \u00e2\u0080\u0098is a black flag / wounding the pastoral.\u00e2\u0080\u0099 I am deeply thankful that we have a poet of her unique and singular talent writing today.\" \u00e2\u0080\u0094Kwame DawesTaking its name from the moon's dark plains, misidentified as seas by early astronomers, the black maria investigates African diasporic histories, the consequences of racism within American culture, and the question of human identity. Central to this project is a desire to recognize the lives of Eritrean refugees who have been made invisible by years of immigration crisis, refugee status, exile, and resulting statelessness. The recipient of a 2015 Whiting Award for Poetry, Girmay's newest collection elegizes and celebrates life, while wrestling with the humanistic notion of seeing beyond: seeing violence, seeing grace, and seeing each other better.\"to the sea\"great storage house, historyon which we rode, we touchedthe brief pulse of your flutteringpages, spelled with salt & life,your rage, your indifferenceyour gentleness washing our feet,all of you going onwhether or not we live,to you we bring our carnationsyellow & pink, how they floatlike bright sentences atopyour memory's dark hairAracelis Girmay is the author of three poetry collections, the black maria; Kingdom Animalia, which won the Isabella Gardner Award and was a finalist for the NBCC Award; and Teeth. The recipient of a 2015 Whiting Award, she has received grants and fellowships from the Jerome, Cave Canem, and Watson foundations, as well as Civitella Ranieri and the NEA. She currently teaches at Hampshire College's School for Interdisciplinary Arts and in Drew University's low residency MFA program. Originally from Santa Ana, California, she splits her time between New York and Amherst, Massachusetts. ...more\n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-26T10:05:06.899479"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html",
+    "title": "Fiction | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-26T10:05:08.257827"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html",
+    "title": "Food and Drink | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-26T10:05:10.611558"
+  },
+  {
+    "url": "https://youtube.com",
+    "title": "YouTube",
+    "meta": {
+      "og:image": "https://www.youtube.com/img/desktop/yt_1200.png",
+      "fb:app_id": "87741124305",
+      "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube.",
+      "keywords": "video, sharing, camera phone, video phone, free, upload",
+      "theme-color": "rgba(255, 255, 255, 0.98)"
+    },
+    "crawled_at": "2025-11-26T10:06:21.164226"
+  },
+  {
+    "url": "https://www.youtube.com/ads/",
+    "title": "Redirecting",
+    "meta": {},
+    "crawled_at": "2025-11-26T10:06:21.512461"
+  },
+  {
+    "url": "https://youtube.com/t/contact_us/",
+    "title": "Contact Us",
+    "meta": {},
+    "crawled_at": "2025-11-26T10:06:21.579393"
+  },
+  {
+    "url": "https://youtube.com/new",
+    "title": "Labs page for YouTube",
+    "meta": {
+      "title": "Labs page for YouTube",
+      "description": "Try experimental new features. Sign up to participate in user experience research studies and get rewarded for your time.",
+      "fb:app_id": "87741124305",
+      "og:url": "https://www.youtube.com/new",
+      "og:title": "Labs page for YouTube",
+      "og:description": "Try experimental new features. Sign up to participate in user experience research studies and get rewarded for your time.",
+      "og:image": "https://www.youtube.com/img/desktop/labs_image.png",
+      "og:type": "website",
+      "theme-color": "rgba(255, 255, 255, 0.98)"
+    },
+    "crawled_at": "2025-11-26T10:06:21.720450"
+  },
+  {
+    "url": "https://www.youtube.com/about/copyright/",
+    "title": "Copyright tools: Rightsholders and creators \u00e2\u0080\u0093 how YouTube works",
+    "meta": {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width, viewport-fit=cover",
+      "description": "YouTube thrives on originality, and in doing so, it protects its creators through copyright. Learn how copyright helps to identify unoriginal content.",
+      "pinterest": "nopin",
+      "og:url": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/copyright/",
+      "og:type": "website",
+      "og:image": "https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0",
+      "og:title": "Copyright tools: Rightsholders and creators \u00e2\u0080\u0093 how YouTube works",
+      "og:site_name": "How YouTube works",
+      "og:description": "YouTube thrives on originality, and in doing so, it protects its creators through copyright. Learn how copyright helps to identify unoriginal content.",
+      "twitter:card": "summary_large_image",
+      "twitter:url": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/copyright/",
+      "twitter:title": "Copyright tools: Rightsholders and creators \u00e2\u0080\u0093 how YouTube works",
+      "twitter:description": "YouTube thrives on originality, and in doing so, it protects its creators through copyright. Learn how copyright helps to identify unoriginal content.",
+      "twitter:image": "https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0"
+    },
+    "crawled_at": "2025-11-26T10:06:21.829356"
+  },
+  {
+    "url": "https://www.youtube.com/about/policies/",
+    "title": "YouTube policies crafted for openness \u00e2\u0080\u0093 how YouTube works",
+    "meta": {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width, viewport-fit=cover",
+      "description": "YouTube's policies ensure that our platform allows viewers, creators and advertisers to thrive. Review our guidelines on how we maintain a balance.",
+      "pinterest": "nopin",
+      "og:url": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-policies/",
+      "og:type": "website",
+      "og:image": "https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0",
+      "og:title": "YouTube policies crafted for openness \u00e2\u0080\u0093 how YouTube works",
+      "og:site_name": "How YouTube works",
+      "og:description": "YouTube's policies ensure that our platform allows viewers, creators and advertisers to thrive. Review our guidelines on how we maintain a balance.",
+      "twitter:card": "summary_large_image",
+      "twitter:url": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/our-policies/",
+      "twitter:title": "YouTube policies crafted for openness \u00e2\u0080\u0093 how YouTube works",
+      "twitter:description": "YouTube's policies ensure that our platform allows viewers, creators and advertisers to thrive. Review our guidelines on how we maintain a balance.",
+      "twitter:image": "https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0"
+    },
+    "crawled_at": "2025-11-26T10:06:21.904684"
+  },
+  {
+    "url": "https://www.youtube.com/creators/",
+    "title": "YouTube creators \u00e2\u0080\u0093 Education and inspiration for video creators",
+    "meta": {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width, viewport-fit=cover",
+      "description": "Explore YouTube creators for everything that you need to know about the video and content creator journey, and how to make the most of yours.",
+      "pinterest": "nopin",
+      "og:url": "https://www.youtube.com/intl/en_in/creators/",
+      "og:type": "website",
+      "og:image": "https://lh3.googleusercontent.com/q067m09_qRgFPyCxAwUT1ZRNi2PoWXyzeSSdxkKpIikCnAmO9lTJX7cVsfdGk6fN-CDUCvm29DUNMrSEjKBT8ozQlITpYmTM9wql2LBdtDOBPFevYjev=w600",
+      "og:title": "YouTube creators \u00e2\u0080\u0093 Education and inspiration for video creators",
+      "og:site_name": "YouTube Creators",
+      "og:description": "Explore YouTube creators for everything that you need to know about the video and content creator journey, and how to make the most of yours.",
+      "twitter:card": "summary_large_image",
+      "twitter:url": "https://www.youtube.com/intl/en_in/creators/",
+      "twitter:title": "YouTube creators \u00e2\u0080\u0093 Education and inspiration for video creators",
+      "twitter:description": "Explore YouTube creators for everything that you need to know about the video and content creator journey, and how to make the most of yours.",
+      "twitter:image": "https://lh3.googleusercontent.com/q067m09_qRgFPyCxAwUT1ZRNi2PoWXyzeSSdxkKpIikCnAmO9lTJX7cVsfdGk6fN-CDUCvm29DUNMrSEjKBT8ozQlITpYmTM9wql2LBdtDOBPFevYjev=w600"
+    },
+    "crawled_at": "2025-11-26T10:06:21.971753"
+  },
+  {
+    "url": "https://youtube.com/t/privacy",
+    "title": "Privacy Policy \u2013 Privacy & Terms \u2013 Google",
+    "meta": {
+      "referrer": "origin",
+      "viewport": "initial-scale=1, maximum-scale=5, width=device-width",
+      "mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-capable": "yes",
+      "application-name": "Privacy & Terms \u2013 Google",
+      "apple-mobile-web-app-title": "Privacy & Terms \u2013 Google",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "msapplication-tap-highlight": "no"
+    },
+    "crawled_at": "2025-11-26T10:06:22.057778"
+  },
+  {
+    "url": "https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen",
+    "title": "How YouTube works: Giving everyone a voice",
+    "meta": {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width, viewport-fit=cover",
+      "description": "YouTube is home to unique voices and an array of content. Understand how YouTube works, from protecting user privacy to amplifying voices globally.",
+      "pinterest": "nopin",
+      "og:url": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/",
+      "og:type": "website",
+      "og:image": "https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0",
+      "og:title": "How YouTube works: Giving everyone a voice",
+      "og:site_name": "How YouTube works",
+      "og:description": "YouTube is home to unique voices and an array of content. Understand how YouTube works, from protecting user privacy to amplifying voices globally.",
+      "twitter:card": "summary_large_image",
+      "twitter:url": "https://www.youtube.com/intl/ALL_in/howyoutubeworks/",
+      "twitter:title": "How YouTube works: Giving everyone a voice",
+      "twitter:description": "YouTube is home to unique voices and an array of content. Understand how YouTube works, from protecting user privacy to amplifying voices globally.",
+      "twitter:image": "https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0"
+    },
+    "crawled_at": "2025-11-26T10:06:22.070989"
+  },
+  {
+    "url": "https://www.youtube.com/about/",
+    "title": "About YouTube - YouTube",
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "description": "YouTube\u00e2\u0080\u0099s mission is to give everyone a voice and show them the world. Learn about our brand, community, careers and more."
+    },
+    "crawled_at": "2025-11-26T10:06:22.461716"
+  },
+  {
+    "url": "https://youtube.com/yt/about",
+    "title": "About YouTube - YouTube",
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "description": "YouTube\u00e2\u0080\u0099s mission is to give everyone a voice and show them the world. Learn about our brand, community, careers and more."
+    },
+    "crawled_at": "2025-11-26T10:06:22.510468"
+  },
+  {
+    "url": "https://www.youtube.com/about/press/",
+    "title": "Official YouTube Blog for Latest YouTube News & Insights",
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0",
+      "optimize_experiments": "",
+      "description": "Explore our official blog for the latest news about YouTube, creator and artist profiles, culture and trends analyses, and behind-the-scenes insights.",
+      "keywords": "youtube blog, news about youtube, blog insights",
+      "og:type": "website",
+      "og:title": "YouTube Official Blog",
+      "og:description": "Explore our official blog for the latest news about YouTube, creator and artist profiles, culture and trends analyses, and behind-the-scenes insights.",
+      "og:image": "https://blog.youtube/static/blog_youtube/images/youtube_social_200x200.png?version=pr20251113-1736",
+      "og:site_name": "blog.youtube",
+      "og:url": "https://blog.youtube/",
+      "twitter:card": "summary_large_image",
+      "twitter:url": "https://blog.youtube/",
+      "twitter:title": "YouTube Official Blog",
+      "twitter:description": "Explore our official blog for the latest news about YouTube, creator and artist profiles, culture and trends analyses, and behind-the-scenes insights.",
+      "twitter:image:src": "https://blog.youtube/static/blog_youtube/images/youtube_social_200x200.png?version=pr20251113-1736",
+      "twitter:site": "@youtube",
+      "page": "39322",
+      "category": "",
+      "locale": "en-us",
+      "published_time": "2020-07-31T16:39:39.879113+00:00",
+      "content_type": "blog_youtube.youtubehomepage",
+      "tags": "",
+      "authors": "",
+      "gtm-tag": "GTM-W8LC8VL",
+      "ga-tag": "UA-74385728-2"
+    },
+    "crawled_at": "2025-11-26T10:06:22.587178"
+  },
+  {
+    "url": "https://youtube.com/",
+    "title": "YouTube",
+    "meta": {
+      "og:image": "https://www.youtube.com/img/desktop/yt_1200.png",
+      "fb:app_id": "87741124305",
+      "description": "Enjoy the videos and music that you love, upload original content and share it all with friends, family and the world on YouTube.",
+      "keywords": "video, sharing, camera phone, video phone, free, upload",
+      "theme-color": "rgba(255, 255, 255, 0.98)"
+    },
+    "crawled_at": "2025-11-26T10:06:22.640213"
+  },
+  {
+    "url": "https://youtube.com/t/advertising_overview",
+    "title": "Online Video Advertising Campaigns - YouTube Advertising",
+    "meta": {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width",
+      "description": "Online video advertising lets you reach potential customers where they\u00e2\u0080\u0099re watching. Grow your business with YouTube Ads today.",
+      "pinterest": "nopin",
+      "og:url": "https://www.youtube.com/ads/",
+      "og:type": "website",
+      "og:image": "https://lh3.googleusercontent.com/1H4CQsb_ug2NjdQJS20h_Ye9nZZPpAv8ohVKY3Ot7rM3esSIGNCYtorgUPudlCtgFImUAzr5aPPLcyk0Istz-Oa_WUe1f9OgmPdqqw",
+      "og:title": "Online Video Advertising Campaigns - YouTube Advertising",
+      "og:site_name": "YouTube Advertising",
+      "og:description": "Online video advertising lets you reach potential customers where they\u00e2\u0080\u0099re watching. Grow your business with YouTube Ads today.",
+      "twitter:card": "summary_large_image",
+      "twitter:url": "https://www.youtube.com/ads/",
+      "twitter:title": "Online Video Advertising Campaigns - YouTube Advertising",
+      "twitter:description": "Online video advertising lets you reach potential customers where they\u00e2\u0080\u0099re watching. Grow your business with YouTube Ads today.",
+      "twitter:image": "https://lh3.googleusercontent.com/1H4CQsb_ug2NjdQJS20h_Ye9nZZPpAv8ohVKY3Ot7rM3esSIGNCYtorgUPudlCtgFImUAzr5aPPLcyk0Istz-Oa_WUe1f9OgmPdqqw",
+      "google-site-verification": "dI1uHDj5M6WX7GbuTX7aQG3UyzB3UthWAbvMTZ4JUnE"
+    },
+    "crawled_at": "2025-11-26T10:06:22.882899"
+  },
+  {
+    "url": "https://youtube.com/yt/jobs",
+    "title": "YouTube Jobs",
+    "meta": {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+    },
+    "crawled_at": "2025-11-26T10:06:22.990556"
+  },
+  {
+    "url": "https://youtube.com/t/community_guidelines",
+    "title": "YouTube Policies Crafted for Openness - How YouTube Works",
+    "meta": {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width, viewport-fit=cover",
+      "description": "YouTube's policies ensure that our platform allows viewers, creators, and advertisers to thrive. Review our guidelines on how we maintain a balance.",
+      "pinterest": "nopin",
+      "og:url": "https://www.youtube.com/howyoutubeworks/our-policies/",
+      "og:type": "website",
+      "og:image": "https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0",
+      "og:title": "YouTube Policies Crafted for Openness - How YouTube Works",
+      "og:site_name": "How YouTube Works",
+      "og:description": "YouTube's policies ensure that our platform allows viewers, creators, and advertisers to thrive. Review our guidelines on how we maintain a balance.",
+      "twitter:card": "summary_large_image",
+      "twitter:url": "https://www.youtube.com/howyoutubeworks/our-policies/",
+      "twitter:title": "YouTube Policies Crafted for Openness - How YouTube Works",
+      "twitter:description": "YouTube's policies ensure that our platform allows viewers, creators, and advertisers to thrive. Review our guidelines on how we maintain a balance.",
+      "twitter:image": "https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0"
+    },
+    "crawled_at": "2025-11-26T10:06:23.264511"
+  },
+  {
+    "url": "https://www.youtube.com/yt/creators/en-gb/get-started.html",
+    "title": "Creator Awards for Subscriber Milestones - YouTube Creators",
+    "meta": {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width, viewport-fit=cover",
+      "description": "Creators work hard on their videos, and we\u00e2\u0080\u0099re here to celebrate with Creator Award subscriber milestones. Learn more about awards for YouTubers.",
+      "pinterest": "nopin",
+      "og:url": "https://www.youtube.com/creators/how-things-work/get-involved/awards/",
+      "og:type": "website",
+      "og:image": "https://lh3.googleusercontent.com/SgEmNqFwZKKeYcdG5oQKSuJWqPw5ZQ_1TRKhF93xMr3PSSvO142nwtsLNrRAEfs9oqQFQ2QrlkuS5WQodyWvd_0UCZTS-yd5oEdMb5EqIbtX0GvNhyA=w600",
+      "og:title": "Creator Awards for Subscriber Milestones - YouTube Creators",
+      "og:site_name": "YouTube Creators",
+      "og:description": "Creators work hard on their videos, and we\u00e2\u0080\u0099re here to celebrate with Creator Award subscriber milestones. Learn more about awards for YouTubers.",
+      "twitter:card": "summary_large_image",
+      "twitter:url": "https://www.youtube.com/creators/how-things-work/get-involved/awards/",
+      "twitter:title": "Creator Awards for Subscriber Milestones - YouTube Creators",
+      "twitter:description": "Creators work hard on their videos, and we\u00e2\u0080\u0099re here to celebrate with Creator Award subscriber milestones. Learn more about awards for YouTubers.",
+      "twitter:image": "https://lh3.googleusercontent.com/SgEmNqFwZKKeYcdG5oQKSuJWqPw5ZQ_1TRKhF93xMr3PSSvO142nwtsLNrRAEfs9oqQFQ2QrlkuS5WQodyWvd_0UCZTS-yd5oEdMb5EqIbtX0GvNhyA=w600"
+    },
+    "crawled_at": "2025-11-26T10:06:23.370931"
+  },
+  {
+    "url": "https://youtube.com/yt/dev",
+    "title": "YouTube \u00a0|\u00a0 Google for Developers",
+    "meta": {
+      "google-signin-client-id": "721724668570-nbkv1cfusk7kk4eni4pjvepaus73b13t.apps.googleusercontent.com",
+      "google-signin-scope": "profile email https://www.googleapis.com/auth/developerprofiles https://www.googleapis.com/auth/developerprofiles.award",
+      "og:site_name": "Google for Developers",
+      "og:type": "website",
+      "theme-color": "#ff0000",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "YouTube \u00a0|\u00a0 Google for Developers",
+      "description": "Add YouTube functionality to your sites and apps.",
+      "og:description": "Add YouTube functionality to your sites and apps.",
+      "og:url": "https://developers.google.com/youtube",
+      "og:image": "https://www.gstatic.com/devrel-devsite/prod/v210625d4186b230b6e4f2892d2ebde056c890c9488f9b443a741ca79ae70171d/developers/images/opengraph/youtube-theme.png",
+      "og:image:width": "1200",
+      "og:image:height": "675",
+      "og:locale": "en",
+      "twitter:card": "summary_large_image"
+    },
+    "crawled_at": "2025-11-26T10:06:23.426874"
+  },
+  {
+    "url": "https://youtube.com/t/press",
+    "title": "About YouTube - YouTube",
+    "meta": {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "description": "YouTube\u00e2\u0080\u0099s mission is to give everyone a voice and show them the world. Learn about our brand, community, careers and more."
+    },
+    "crawled_at": "2025-11-26T10:06:23.630117"
+  },
+  {
+    "url": "https://youtube.com/t/contentid",
+    "title": "How Content ID works - YouTube Help",
+    "meta": {
+      "format-detection": "email=no",
+      "robots": "follow,index",
+      "description": "Some copyright owners use Content ID, YouTube's automated content identification system, to easily identify and manage their copyright-protected content on YouTube.",
+      "google-site-verification": "XDaf09mosy9iTj6dOnwb6sKTrNhfKwOS6v98lPV0dEE",
+      "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=3,user-scalable=yes"
+    },
+    "crawled_at": "2025-11-26T10:06:25.730518"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/humor_30/index.html",
+    "title": "Humor | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:14:42.417845"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/art_25/index.html",
+    "title": "Art | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:14:43.632719"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books_1/index.html",
+    "title": "Books | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:14:45.136405"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html",
+    "title": "Poetry | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:14:46.715443"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html",
+    "title": "Parenting | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:14:47.943009"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html",
+    "title": "Short Stories | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:14:49.169296"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/set-me-free_988/index.html",
+    "title": "Set Me Free | Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    Aaron Ledbetter\u00e2\u0080\u0099s future had been planned out for him since before he was born. Each year, the Ledbetter family vacation on Tybee Island gave Aaron a chance to briefly free himself from his family\u00e2\u0080\u0099s expectations. When he meets Jonas \u00e2\u0080\u009cLucky\u00e2\u0080\u009d Luckett, a caricature artist in town with the traveling carnival, he must choose between the life that\u00e2\u0080\u0099s been mapped out for him, and Aaron Ledbetter\u00e2\u0080\u0099s future had been planned out for him since before he was born. Each year, the Ledbetter family vacation on Tybee Island gave Aaron a chance to briefly free himself from his family\u00e2\u0080\u0099s expectations. When he meets Jonas \u00e2\u0080\u009cLucky\u00e2\u0080\u009d Luckett, a caricature artist in town with the traveling carnival, he must choose between the life that\u00e2\u0080\u0099s been mapped out for him, and the chance at true love. ...more\n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:14:50.283616"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html",
+    "title": "Add a comment | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:14:51.831341"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
+    "title": "Rip it Up and Start Again | Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    Punk's raw power rejuvenated rock, but by the summer of 1977 the movement had become a parody of itself. RIP IT UP AND START AGAIN is a celebration of what happened next.Post-punk bands like PiL, Joy Division, Talking Heads, The Fall and The Human League dedicated themselves to fulfilling punk's unfinished musical revolution. The post-punk groups were fervent modernists; w Punk's raw power rejuvenated rock, but by the summer of 1977 the movement had become a parody of itself. RIP IT UP AND START AGAIN is a celebration of what happened next.Post-punk bands like PiL, Joy Division, Talking Heads, The Fall and The Human League dedicated themselves to fulfilling punk's unfinished musical revolution. The post-punk groups were fervent modernists; whether experimenting with electronics and machine rhythm or adapting ideas from dub reggae and disco, they were totally confident they could invent a whole new future for music. ...more\n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:14:53.051891"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+    "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 | Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    This is the never-before-told story of the musical revolution that happened right under the nose of the Reagan Eighties--when a small but sprawling network of bands, labels, fanzines, radio stations, and other subversives reenergized American rock with punk rock's do-it-yourself credo and created music that was deeply personal, often brilliant, always challenging, and imme This is the never-before-told story of the musical revolution that happened right under the nose of the Reagan Eighties--when a small but sprawling network of bands, labels, fanzines, radio stations, and other subversives reenergized American rock with punk rock's do-it-yourself credo and created music that was deeply personal, often brilliant, always challenging, and immensely influential. This sweeping chronicle of music, politics, drugs, fear, loathing, and faith has been recognized as an indie rock classic in its own right. Among the bands profiled: Mission of Burma, Butthole Surfers, The Minutemen, Sonic Youth, Black Flag, Big Black, H\u00c3\u00bcsker D\u00c3\u00bc, Fugazi, Minor Threat, Mudhoney, The Replacements, Beat Happening, and Dinosaur Jr. ...more\n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:14:54.279705"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html",
+    "title": "Paranormal | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:14:55.507256"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
+    "title": "Horror | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:14:57.070713"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+    "title": "Tipping the Velvet | Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \"Erotic and absorbing...Written with starling power.\"--\"The New York Times Book Review \" Nan King, an oyster girl, is captivated by the music hall phenomenon Kitty Butler, a male impersonator extraordinaire treading the boards in Canterbury. Through a friend at the box office, Nan manages to visit all her shows and finally meet her heroine. Soon after, she becomes Kitty's \"Erotic and absorbing...Written with starling power.\"--\"The New York Times Book Review \" Nan King, an oyster girl, is captivated by the music hall phenomenon Kitty Butler, a male impersonator extraordinaire treading the boards in Canterbury. Through a friend at the box office, Nan manages to visit all her shows and finally meet her heroine. Soon after, she becomes Kitty's dresser and the two head for the bright lights of Leicester Square where they begin a glittering career as music-hall stars in an all-singing and dancing double act. At the same time, behind closed doors, they admit their attraction to each other and their affair begins. ...more\n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:14:58.372404"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/politics_48/index.html",
+    "title": "Politics | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:14:59.604895"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+    "title": "Sharp Objects | Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    WICKED above her hipbone, GIRL across her heart Words are like a road map to reporter Camille Preaker\u00e2\u0080\u0099s troubled past. Fresh from a brief stay at a psych hospital, Camille\u00e2\u0080\u0099s first assignment from the second-rate daily paper where she works brings her reluctantly back to her hometown to cover the murders of two preteen girls. NASTY on her kneecap, BABYDOLL on her leg Since WICKED above her hipbone, GIRL across her heart Words are like a road map to reporter Camille Preaker\u00e2\u0080\u0099s troubled past. Fresh from a brief stay at a psych hospital, Camille\u00e2\u0080\u0099s first assignment from the second-rate daily paper where she works brings her reluctantly back to her hometown to cover the murders of two preteen girls. NASTY on her kneecap, BABYDOLL on her leg Since she left town eight years ago, Camille has hardly spoken to her neurotic, hypochondriac mother or to the half-sister she barely knows: a beautiful thirteen-year-old with an eerie grip on the town. Now, installed again in her family\u00e2\u0080\u0099s Victorian mansion, Camille is haunted by the childhood tragedy she has spent her whole life trying to cut from her memory. HARMFUL on her wrist, WHORE on her ankle As Camille works to uncover the truth about these violent crimes, she finds herself identifying with the young victims\u00e2\u0080\u0094a bit too strongly. Clues keep leading to dead ends, forcing Camille to unravel the psychological puzzle of her own past to get at the story. Dogged by her own demons, Camille will have to confront what happened to her years before if she wants to survive this homecoming.With its taut, crafted writing, Sharp Objects is addictive, haunting, and unforgettable. ...more\n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:15:00.832406"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html",
+    "title": "Philosophy | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:15:02.476321"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+    "title": "Sapiens: A Brief History of Humankind | Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    From a renowned historian comes a groundbreaking narrative of humanity\u00e2\u0080\u0099s creation and evolution\u00e2\u0080\u0094a #1 international bestseller\u00e2\u0080\u0094that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be \u00e2\u0080\u009chuman.\u00e2\u0080\u009dOne hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one\u00e2\u0080\u0094h From a renowned historian comes a groundbreaking narrative of humanity\u00e2\u0080\u0099s creation and evolution\u00e2\u0080\u0094a #1 international bestseller\u00e2\u0080\u0094that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be \u00e2\u0080\u009chuman.\u00e2\u0080\u009dOne hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one\u00e2\u0080\u0094homo sapiens. What happened to the others? And what may happen to us?Most books about the history of humanity pursue either a historical or a biological approach, but Dr. Yuval Noah Harari breaks the mold with this highly original book that begins about 70,000 years ago with the appearance of modern cognition. From examining the role evolving humans have played in the global ecosystem to charting the rise of empires, Sapiens integrates history and science to reconsider accepted narratives, connect past developments with contemporary concerns, and examine specific events within the context of larger ideas.Dr. Harari also compels us to look ahead, because over the last few decades humans have begun to bend laws of natural selection that have governed life for the past four billion years. We are acquiring the ability to design not only the world around us, but also ourselves. Where is this leading us, and what do we want to become?Featuring 27 photographs, 6 maps, and 25 illustrations/diagrams, this provocative and insightful work is sure to spark debate and is essential reading for aficionados of Jared Diamond, James Gleick, Matt Ridley, Robert Wright, and Sharon Moalem. ...more\n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:15:03.803846"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/olio_984/index.html",
+    "title": "Olio | Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    Part fact, part fiction, Tyehimba Jess's much anticipated second book weaves sonnet, song, and narrative to examine the lives of mostly unrecorded African American performers directly before and after the Civil War up to World War I. Olio is an effort to understand how they met, resisted, complicated, co-opted, and sometimes defeated attempts to minstrelize them.So, while Part fact, part fiction, Tyehimba Jess's much anticipated second book weaves sonnet, song, and narrative to examine the lives of mostly unrecorded African American performers directly before and after the Civil War up to World War I. Olio is an effort to understand how they met, resisted, complicated, co-opted, and sometimes defeated attempts to minstrelize them.So, while I lead this choir, I still find thatI'm being led\u00e2\u0080\u00a6I'm a missionarymending my faith in the midst of this flock\u00e2\u0080\u00a6I toil in their fields of praise. When folks seethese freedmen stand and sing, they hear their Godspeak in tongues. These nine dark mouths sing shelter;they echo a hymn's haven from slavery's weather.Detroit native Tyehimba Jess' first book of poetry, leadbelly, was a winner of the 2004 National Poetry Series. Jess, a Cave Canem and NYU Alumni, has received fellowships from the Whiting Foundation, National Endowment for the Arts, Illinois Arts Council, and the Provincetown Fine Arts Work Center. Jess is also a veteran of the 2000 and 2001 Green Mill Poetry Slam Team. He exhibited his poetry at the 2011 TEDxNashville Conference. Jess is an Associate Professor of English at College of Staten Island. ...more\n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:15:06.256673"
+  },
+  {
+    "url": "https://httpbin.org/get#test",
+    "title": "",
+    "meta": {},
+    "crawled_at": "2025-11-30T08:15:50.798787"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html",
+    "title": "Contemporary | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:37:28.213353"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html",
+    "title": "Suspense | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:37:29.447317"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html",
+    "title": "Shakespeare's Sonnets | Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    This book is an important and complete collection of the Sonnets of William Shakespeare. Most readers are aware of the great plays and manuscripts written for the stage, but are unaware of the magnificent Sonnets which were written around the same period. This is an excellent, complete collection of the Sonnets and poetry of William Shakespeare and should not be missed by This book is an important and complete collection of the Sonnets of William Shakespeare. Most readers are aware of the great plays and manuscripts written for the stage, but are unaware of the magnificent Sonnets which were written around the same period. This is an excellent, complete collection of the Sonnets and poetry of William Shakespeare and should not be missed by those interested in the completion of a collection of his writings and those interested in early poetic works. ...more\n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:37:30.777567"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+    "title": "The Dirty Little Secrets of Getting Your Dream Job | Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    Drawing on his extensive experience evaluating applicants for his marketing agency, and featuring stories based on real-life situations, sample cover letters, resumes, and straightforward advice, Don Raskin\u00e2\u0080\u0099s The Dirty Little Secrets of Getting Your Dream Job offers all the necessary tools for navigating the tough job market and securing your dream job.Don Raskin owns and Drawing on his extensive experience evaluating applicants for his marketing agency, and featuring stories based on real-life situations, sample cover letters, resumes, and straightforward advice, Don Raskin\u00e2\u0080\u0099s The Dirty Little Secrets of Getting Your Dream Job offers all the necessary tools for navigating the tough job market and securing your dream job.Don Raskin owns and operates MME, an advertising and marketing agency in New York City. During his twenty-five years at the agency he has interviewed hundreds of new college graduates for positions within his agency and has placed a strong emphasis on entry-level recruitment for positions in creative, account management, traffic, and production. Raskin has also mentored countless students and their parents on best practices for the job search. Over the years, Raskin has kept exceptionally detailed notes on the interviews he has conducted, observing the good, the bad, the ridiculous, the irreverent. He also has a treasure trove of over-the-top cover letters, resumes, interviews, and post interview follow-ups he has conducted and received. Now, he wants to share all the wisdom and insider secrets he has gathered to help students and first-time job seekers find a job in this economy.Based on his remarkable expertise, Raskin's book provides exclusive insight into the job search process and lets readers in on all of the dirty little secrets to landing their first job\u00e2\u0080\u0094or a new one\u00e2\u0080\u0094and finding career success. ...more\n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:37:31.994420"
+  },
+  {
+    "url": "https://books.toscrape.com",
+    "title": "All products | Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:38:35.082112"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
+    "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull | Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \"If you have a heart, if you have a soul, Karen Hicks' The Coming Woman will make you fall in love with Victoria Woodhull.\"-Kinky Friedman, author and Governor of the Heart of Texas \"What kind of confidence would it take for a woman to buck the old boy's club of politics in 1872? More than 140 years pre-Hillary, there was Victoria Woodhull. This book takes you back with a \"If you have a heart, if you have a soul, Karen Hicks' The Coming Woman will make you fall in love with Victoria Woodhull.\"-Kinky Friedman, author and Governor of the Heart of Texas \"What kind of confidence would it take for a woman to buck the old boy's club of politics in 1872? More than 140 years pre-Hillary, there was Victoria Woodhull. This book takes you back with a breathtaking, present-tense bird's eye view into a time when women's liberation was primarily confined to one woman's very capable, independent mind. I couldn't put it down.\"---Ruth Buzzi, Golden Globe Award winner and Television Hall of Fame inductee\"Sadly, too many Americans have never heard of Victoria Woodhull, let alone learned of her story: her revolutionary campaign for the presidency at a time when women weren't even allowed to vote, her support for worker's rights, or her feminist commitment to equality, a century before the official battle over the Equal Rights Amendment. But in The Coming Woman, Karen Hicks brings Woodhull's efforts to life, and reminds us that some of our nation's greatest figures aren't always featured in the history books. It is a riveting account of an amazing woman and her struggle for justice and human dignity, told in an engaging and eminently readable style.\"-Tim Wise, author, \"White Like Me: Reflections on Race from a Privileged Son\"\"The Coming Woman\" is a novel based on the life of feminist Victoria Woodhull, the first woman to run for U.S. President, 50 years before women could even vote!Running for President wasn't Victoria's only first as a woman. She was also the first to own a successful Wall Street firm, the first to publish a successful national newspaper, and the first to head the two-million-member Spiritualist Association. She was the first woman to enter the Senate Judiciary Committee chambers to petition for woman's suffrage, her argument changing the entire focus of the suffragist movement by pointing out that the 14th and 15th Amendments already gave women the vote.In her campaign for the Presidency, Victoria Woodhull boldly addressed many of the issues we still face today: equal pay for equal work; freedom in love; corporate greed and political corruption fueled by powerful lobbyists; and the increasing disparity between the rich and the poor, to name only a few. Her outspoken and common-sense ideas may shed a new perspective on the parallel conundrums of today's world.This bold, beautiful, and sexually progressive woman dared to take on society and religion. To make an example of the hypocrisy in what Mark Twain dubbed The Gilded Age, she exposed the extramarital affairs of the most popular religious figure of the day (Henry Ward Beecher). This led to her persecution and imprisonment and the longest, most infamous trial of the 19th century. But it did not stop her fight for equality.Victoria's epic story, set in the late 1800s, comes to life in a modern, fictional style, while staying true to the actual words and views of the many well-known characters. ...more\n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:38:39.062847"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html",
+    "title": "Self Help | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:38:40.243877"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
+    "title": "Travel | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:38:41.833074"
+  },
+  {
+    "url": "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html",
+    "title": "Sequential Art | \n     Books to Scrape - Sandbox",
+    "meta": {
+      "created": "24th Jun 2016 09:29",
+      "description": "\n    \n",
+      "viewport": "width=device-width",
+      "robots": "NOARCHIVE,NOCACHE"
+    },
+    "crawled_at": "2025-11-30T08:38:43.379859"
+  }
+]

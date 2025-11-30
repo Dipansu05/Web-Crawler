@@ -6,14 +6,22 @@ from urllib.parse import urlparse
 from crawler.worker import fetch, parse_html
 from crawler.robots import RobotsChecker
 from utils.db import CrawlerDB
+from urllib.parse import urlparse, urlunparse
+
+def normalize_url(url):
+    """Remove fragments, normalize scheme/host."""
+    parsed = urlparse(url)
+    clean = parsed._replace(fragment="")
+    return urlunparse(clean)
 
 
 class Crawler:
-    def __init__(self, seeds, max_workers=8, max_pages=200, max_depth=2):
+    def __init__(self, seeds, max_workers=8, max_pages=200, max_depth=2, ignore_robots=False):
         self.seeds = seeds
         self.max_workers = max_workers
         self.max_pages = max_pages
         self.max_depth = max_depth
+        self.ignore_robots = ignore_robots
 
         self.visited = set()
         self.queue = Queue()
@@ -51,8 +59,9 @@ class Crawler:
                 continue
             if not self.domain_allowed(url):
                 continue
-            if not self.robots.allowed(url):
+            if not self.ignore_robots and not self.robots.allowed(url):
                 continue
+
 
             self.visited.add(url)
 
@@ -62,6 +71,10 @@ class Crawler:
             except Exception:
                 continue
 
+            
+            if html is None:
+                return
+            
             title, meta, links = parse_html(html, url)
             print(f"[Crawled] {url} -> {title}")
 
